@@ -1,3 +1,4 @@
 # Typmaster!
 This is a simple typing master project.
-(https://user-images.githubusercontent.com/119871916/232903382-6db4e514-405e-4406-bc71-90ed31fc7f6a.jpg)
+
+![Typmaster](https://user-images.githubusercontent.com/119871916/232903790-09b0a217-e33e-4618-bbdc-113e34c86565.jpg)
